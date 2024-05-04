@@ -1,5 +1,5 @@
 # Coffee Machine
----
+
 Java Project @JetBrains Academy
 
 A program that simulates the operations of a coffee machine. It offers a variety of drinks at different prices and with varying resource requirements. The program tracks the coffee machine's inventory and allows for restocking supplies and withdrawing funds.
